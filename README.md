@@ -45,3 +45,5 @@ Make the following modifications
 * Finally rename `ExampleComponent` to `App` and render the Diagram inside :rocket:
 
 
+## Or...
+you can use this repo as a starting point.

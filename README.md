@@ -1,5 +1,7 @@
-## How to use React Diagrams with Laravel
+## How to use [React Diagrams](https://github.com/projectstorm/react-diagrams) with Laravel
 As of 22th november 2020.
+
+<img src="https://raw.githubusercontent.com/projectstorm/react-diagrams/master/.gitbook/assets/example1.jpg">
 
 ### Setup up React
 ```
